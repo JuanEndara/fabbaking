@@ -1,13 +1,8 @@
-/*--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
---*/
+
 html, body{
   	font-family: 'Open Sans', sans-serif;
     font-size: 100%;
-  	background:#ff8db2;
+  	background:#7f1325;
 }
 body a{
 	transition:0.5s all;
@@ -18,7 +13,7 @@ body a{
 }
 /*-- top-header --*/
 .top-header{
-	background:#5a0f16;
+	background:#7f1325;
 }
 .top-header-left{
 	float:left;
