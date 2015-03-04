@@ -1,9 +1,3 @@
-<!--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
 <!DOCTYPE HTML>
 <html>
 	<head>
@@ -23,67 +17,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	</head>
 	<body>
 	<!-- container -->
-		<!-- top-header -->
-		<div class="top-header">
-			<div class="container">
-				<div class="top-header-left">
-					<ul>
-						<li><a href="myaccount.html">My Account</a></li>
-						<li><a href="checkout.html">Checkout</a></li>
-						<div class="clearfix"> </div>
-					</ul>
-				</div>
-				<div class="top-header-center">
-					<p><span class="cart"> </span>Cart<label>$5256</label></p>
-				</div>
-				<div class="top-header-right">
-					<ul>
-						<li>
-							<form>
-								<input type="text">
-								<input type="submit" value="" />
-							</form>
-							
-						</li>
-						<li><a href="login.html">Login</a></li>
-						<li><a href="register.html">Register</a></li>
-					</ul>
-				</div>
-				<div class="clearfix"> </div>
-			</div>
-		</div>
-		<!-- /top-header -->
-		<!-- main-menu -->
-		<div class="main-menu">
-			<div class="container">
-			<div class="head-nav">
-				<span class="menu"> </span>
-				<ul>
-					<li class="active"><a href="index.html">Home</a></li>
-					<li><a href="products.html">products</a></li>
-					<li><a href="about.html">about</a></li>
-					<li><a href="contact.html">Contact</a></li>
-					<div class="clearfix"> </div>
-				</ul>
-			</div>	
-				<!-- script-for-nav -->
-					<script>
-						$( "span.menu" ).click(function() {
-						  $( ".head-nav ul" ).slideToggle(300, function() {
-							// Animation complete.
-						  });
-						});
-					</script>
-				<!-- script-for-nav -->
-
-				<!-- logo -->
-				<div class="logo">
-					<a href="index.html"><img src="images/logo.png" title="Sweetcake" /></a>
-				</div>
-				<!-- logo -->
-			</div>
-		</div>
-		<!-- /main-menu -->
+		<?php include_once 'navMenu.php'; ?>
 		<!-- banner -->
 		<div class="container">
 				<div class="img-slider">
