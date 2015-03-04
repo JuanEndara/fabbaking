@@ -47,7 +47,7 @@ body a{
 	display: block;
 }
 .top-header-left ul li a:hover,.top-header-left ul li.active a{
-	color:#ff8db2;
+	color:red; /* ff8db2 */
 }
 .top-header-center p{
 	color:#FFF;
@@ -596,7 +596,7 @@ a.order:hover{
 .footer h4 {
 	font-size: 1em;
 	font-weight: 700;
-	color: #FC6391;
+	color: #4982A2;
 	text-transform: uppercase;
 	padding: 0 0 0.5em 0;
 	margin: 0 0 0.5em;
@@ -649,7 +649,7 @@ a.order:hover{
 	outline: none;
 	font-weight: 400;
 	text-indent: 10px;
-	border: 1px solid #FC6294;
+	border: 1px solid #4982A2;
 	border-radius: 3px; 
 	-webkit-border-radius: 3px;
 	-moz-border-radius: 3px;
