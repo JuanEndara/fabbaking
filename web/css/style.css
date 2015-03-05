@@ -1,5 +1,4 @@
-
-html, body{
+tml, body{
   	font-family: 'Open Sans', sans-serif;
     font-size: 100%;
   	background:#0f2531;
@@ -259,7 +258,6 @@ body a{
     top: 47%;
     }
 }
-/*----*/
 .callbacks_nav {
 	position: absolute;
 	position: absolute;
@@ -2143,7 +2141,7 @@ h4.title {
 .head-nav ul li a {
 	border-right: none;
 	border-bottom: none;
-	background: #5A0F16;
+	background: #0F2531; /* #5A0F16 */
 	color: #ffffff;
 }
 .head-nav ul{
@@ -2161,7 +2159,7 @@ h4.title {
 	display:block;
 	background:none;
 	position:absolute;
-	top:22px;
+	top:15px; /* df */
 	left:14px;
 	cursor:pointer;
 }	
@@ -2198,7 +2196,7 @@ h4.title {
 }
 .logo {
 	left: 36%;
-	top: 8px;
+	/*top: 8px;*/
 }
 .logo img {
 	width: 75%;
@@ -2408,7 +2406,7 @@ i.twt {
 	padding: 3em 0em 0em;
 }
 .main-menu {
-	margin-top: 0em;
+	/*margin-top: 0em;*/
 }
 .footer {
 	text-align: center;
@@ -2470,6 +2468,10 @@ h4.tag_head {
 }
 .top-header-right ul li a {
 	font-size: 0.875em;
+}
+    .head-nav ul li{
+	display:block;
+	float:none;
 }
 .callbacks_tabs a:after {
   height:13px;
@@ -2602,8 +2604,8 @@ h4.tag_head {
 	left:-13%;
 }
 .logo {
-	left: 32%;
-	top: 9px;
+	/*left: 32%;
+	top: 9px;*/
 }
 .share-on-grid {
 	width: 55%;
@@ -2670,8 +2672,8 @@ a.btn {
 	font-size: 1em;
 }
 .head-nav span.menu {
-	top: -41px;
-	left:111px;
+	/* top: -41px;  
+	left:111px;*/
 }
 .content h2 {
 	font-size: 1.5em;
@@ -2772,8 +2774,8 @@ p.product_descr {
 	padding:0 0.5em;
 }
 .head-nav span.menu {
-	top: -36px;
-	left: 246px;
+	/*top: -36px;
+	left: 246px;*/
 }
 .callbacks_nav.next {
 	background-size: 4em;
@@ -3009,11 +3011,11 @@ i.twt {
 	font-size: 0.750em;
 }
 .logo {
-	left: 21%;
-	top: 9px;
+	left: 30%;
+	/*top: 9px;*/
 }
 .logo img {
-	width: 76%;
+	width: 56%;
 }
 .top-header-right li form input[type="text"] {
 	display: none;
