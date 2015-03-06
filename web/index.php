@@ -11,9 +11,9 @@
    		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 		</script>
-		<!----webfonts--->
+		<webfonts>
 		<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,700,800,400,600' rel='stylesheet' type='text/css'>
-		<!---//webfonts--->
+		</webfonts>
 	</head>
 	<body>
 	<!-- container -->
@@ -86,7 +86,7 @@
 					          	 	<!--a class="buy-btn" href="#">Buy Now</a-->
 					          	 </div>
 					          	  <div class="slider-caption-right">
-					          	  	<a href="#"><img src="images/iteam.png" class="img-responsive" title="name" /></a>
+					          	  	<a href="#"><img src="images/iteam1.jpg" class="img-responsive" title="name" /></a>
 					          	  </div>
 					          	  <div class="clearfix"> </div>
 					          </div>
