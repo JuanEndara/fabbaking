@@ -588,7 +588,7 @@ a.order:hover{
 /*--*/
 /*-- footer --*/
 .footer{
-	background:#FFEDE9;
+	background:#F4F4F4;/*#FFEDE9;*/
 	padding:4em 0em 0em;
 }
 .footer h4 {
@@ -984,7 +984,7 @@ i.white-cart1{
 			outline:none;
 			color:#464646;
 			font-size:0.8125em;
-			border:1px solid #FF8DB2;
+			border:1px solid #4982A2;/* #FF8DB2;*/
 			-webkit-appearance:none;
 }
 .contact-form textarea{
@@ -992,7 +992,7 @@ i.white-cart1{
 		height:120px;		
 }
 .contact-form input[type="submit"]{
-	background: #FD6093;
+	background: #4982A2;/*#FD6093;*/
 	color: #FFF;
 	padding: 5px 20px;
 	display: inline-block;
@@ -1022,7 +1022,7 @@ i.white-cart1{
 }
 .company_address p span{
 	text-decoration:underline;
-	color:#FB6394;
+	color:#4982A2;/*#FB6394;*/
 	cursor:pointer;
 }
 .company_address p span:hover{
