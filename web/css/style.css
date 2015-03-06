@@ -2840,7 +2840,7 @@ a.buy-btn {
 }
 .top-grid-head {
 	width: 98%;
-	background-size: 15em;
+	/*background-size: 15em;*/
 	min-height: 104px;
 }
 .top-grid-info {
