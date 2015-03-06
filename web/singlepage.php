@@ -2,6 +2,7 @@
 <html>
 	<head>
 		<title>Sweet-cakes Website Template | Home :: w3layouts</title>
+        <link rel="icon" type="image/x-icon" href="images/favicon.ico" />
 		<link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
 		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 		<script src="js/jquery.min.js"></script>
