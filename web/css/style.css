@@ -108,7 +108,7 @@ body a{
 	border-right:none;
 }
 .top-header-right ul li a:hover,.top-header-right ul li.active a{
-	color:#ff8db2;
+	color:#4982A2;/*#ff8db2;*/
 }
 .main-menu{
 	background: url(../images/nav-bg.png) repeat-x 0px 0px;
@@ -135,7 +135,7 @@ body a{
 	display: block;
 }
 .head-nav ul li a:hover,.head-nav ul li.active a{
-	color:#FF8DB4;
+	color:#4982A2;/*#FF8DB4;  Menu link hover*/
 }
 
 .head-nav ul li:nth-child(3){
