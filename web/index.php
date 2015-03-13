@@ -182,32 +182,32 @@
 					</div>
 					<div class="top-grid-info">
 						<img src="images/img1.jpg" class="img-responsive" title="name"/>
-						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text</p>
-						<span>$60</span>
+						<p>Our specialty! <br>delicious flavours and decorations, our cakes are made with great dedication for our clients</p>
+						<span></span>
 						<div class="clearfix"> </div>
 						<!--a class="btn" href="#">Buy Now</a-->
 					</div>
 				</div>
 				<div class="col-md-4 top-grid">
 					<div class="top-grid-head">
-						<h3>OUR CAKES</h3>
+						<h3>OUR CUPCAKES</h3>
 					</div>
 					<div class="top-grid-info">
 						<img src="images/img2.jpg" class="img-responsive" title="name"/>
-						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text</p>
-						<span>$80</span>
+						<p>We are very proud of our cupcakes, <br> every recipe is special, and making them is great fun @fabbaking</p>
+						<span></span>
 						<div class="clearfix"> </div>
 						<!--a class="btn" href="#">Buy Now</a-->
 					</div>
 				</div>
 				<div class="col-md-4 top-grid">
 					<div class="top-grid-head">
-						<h3>OUR CAKES</h3>
+						<h3>TAILOR TO OCCASION </h3>
 					</div>
 					<div class="top-grid-info">
 						<img src="images/img3.jpg" class="img-responsive" title="name"/>
-						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text</p>
-						<span>$120</span>
+						<p>We can tailor our bakery service according to your occasion,<br> we will made every effort to meet your needs </p>
+						<span></span>
 						<div class="clearfix"> </div>
 						<!--a class="btn" href="#">Buy Now</a-->
 					</div>
@@ -227,32 +227,44 @@
 					<div class="col-md-3 bottom-grid-left-grid text-center">
 						<img src="images/pic2.jpg" title="name"/>
 						<h4>kids birthday cake</h4>
-						<p>$40</p>
+						<p></p>
 					</div>
 					<div class="col-md-3 bottom-grid-left-grid text-center">
 						<img src="images/pic1.jpg" title="name"/>
-						<h4>kids birthday cake</h4>
-						<p>$40</p>
+						<h4>cupcakes</h4>
+						<p></p>
 					</div>
 					<div class="col-md-3 bottom-grid-left-grid text-center">
 						<img src="images/pic3.jpg" title="name"/>
-						<h4>kids birthday cake</h4>
-						<p>$40</p>
+						<h4>decorations</h4>
+						<p></p>
 					</div>
 					<div class="col-md-3 bottom-grid-left-grid text-center">
 						<img src="images/pic4.jpg" title="name"/>
-						<h4>kids birthday cake</h4>
-						<p>$40</p>
+						<h4>bespoke made to costume</h4>
+						<p></p>
 					</div>
 					<div class="clearfix"> </div>
 					<span class="best-sale">Best sellers</span>
 					<!--a href="#" class="order"> </a-->
 				</div>
-				<div class="col-md-4 bottom-grid-right">
+				<div class="col-md-3 social">
+					<h2>get social</h2>
+					<div class="face-b">
+						<img src="images/foot.png" title="name"/>
+						<a href="https://www.facebook.com/profile.php?id=100009135273996&fref=t"><i class="fb"> </i></a>
+					</div>
+					<div class="twet">		
+						<img src="images/foot.png" title="name"/>
+							<a href="#"><i class="twt"> </i></a>
+					</div>	
+				</div>
+
+				<!--div class="col-md-4 bottom-grid-right">
 					<h3><span class="tweet"> </span> latest tweet</h3>
 					<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy</p>
 					<label>1 day ago</label>
-				</div>
+				</div-->
 				<div class="clearfix"> </div>
 			</div>
 		</div>
