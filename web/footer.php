@@ -14,11 +14,14 @@
 					<h6>07930923450</h6>
 				</div>
 				<div class="col-md-3 social">
-					<h4>get social</h4>
+					<h4>Facebook</h4>
 					<div class="face-b">
 						<img src="images/foot.png" title="name"/>
 						<a href="#"><i class="fb"> </i></a>
 					</div>
+				</div>
+                <div class="col-md-3 social">
+					<h4>Twitter</h4>
 					<div class="twet">		
 						<img src="images/foot.png" title="name"/>
 							<a href="#"><i class="twt"> </i></a>
