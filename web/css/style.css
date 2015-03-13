@@ -292,7 +292,7 @@ body a{
   height:20px;
   width:20px;
   display:inline-block;
-  border:2px solid #fd9cb9;
+  border:2px solid;/* #fd9cb9;*/
   background:#FFF;
   border-radius:50%;
   -webkit-border-radius:50%;
@@ -301,8 +301,8 @@ body a{
   -ms-border-radius:50%;
 }
 .callbacks_here a:after{
-	border:2px solid #fd9cb9;
-	background:#fd9cb9;
+	border:2px solid #0f2531;/*#fd9cb9;*/
+	background:#0f2531;/*#fd9cb9;*/
 }
 .slider-caption {
 	position: absolute;
@@ -363,8 +363,8 @@ a.buy-btn:hover{
 	
 }
 .share-on{
-	background: rgba(90, 15, 22, 0.36);
-	padding: 0.8em 1em 0.5em;
+	background: rgba(147, 153, 147, 0.7);/*rgba(90, 15, 22, 0.36);*/
+    padding: 0.8em 1em 0.5em;
 	position: absolute;
 	width: 100%;
 	bottom: 0px;
@@ -2182,7 +2182,7 @@ h4.title {
 }
 .head-nav ul li a:hover, .head-nav ul li.active a {
 	border-bottom:none;
-	color:#f84f86;
+	color:#4982A2;/*#f84f86;*/
 }
 .head-nav ul li:nth-child(3) {
 	margin-left: 0;
