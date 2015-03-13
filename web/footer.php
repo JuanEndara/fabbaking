@@ -13,7 +13,7 @@
 					<h6>0203 3028374</h6>
 					<h6>07930923450</h6>
 				</div>
-				<!--div class="col-md-3 social">
+				<div class="col-md-3 social">
 					<h4>get social</h4>
 					<div class="face-b">
 						<img src="images/foot.png" title="name"/>
@@ -23,7 +23,7 @@
 						<img src="images/foot.png" title="name"/>
 							<a href="#"><i class="twt"> </i></a>
 					</div>	
-				</div-->
+				</div>
 				<!--div class="col-md-3 sign">
 					<h4>sign up for news later</h4>	
 						<form>

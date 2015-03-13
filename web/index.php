@@ -266,17 +266,6 @@
 					<span class="best-sale">Best sellers</span>
 					<!--a href="#" class="order"> </a-->
 				</div>
-				<div class="col-md-3 social">
-					<h2>get social</h2>
-					<div class="face-b">
-						<img src="images/foot.png" title="name"/>
-						<a href="https://www.facebook.com/profile.php?id=100009135273996&fref=t"><i class="fb"> </i></a>
-					</div>
-					<div class="twet">		
-						<img src="images/foot.png" title="name"/>
-							<a href="#"><i class="twt"> </i></a>
-					</div>	
-				</div>
 
 				<!--div class="col-md-4 bottom-grid-right">
 					<h3><span class="tweet"> </span> latest tweet</h3>
