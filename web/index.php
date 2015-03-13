@@ -65,7 +65,7 @@
 					          </div>
 					          <!-- share-on -->
 					        </li>
-					         <li>
+					        <li>
 					          <img  src="images/slide.jpg" class="img-responsive" alt="">
 					          <div class="slider-caption">
 					          	 <div class="slider-caption-left text-center">
@@ -74,7 +74,7 @@
 					          	 	<!--a class="buy-btn" href="#">Buy Now</a-->
 					          	 </div>
 					          	  <div class="slider-caption-right">
-					          	  	<a href="#"><img src="images/iteam1.jpg" class="img-responsive" title="name" /></a>
+					          	  	<a href="#"><img src="images/iteam1.png" class="img-responsive" title="name" /></a>
 					          	  </div>
 					          	  <div class="clearfix"> </div>
 					          </div>
@@ -104,7 +104,7 @@
 					          	 	<!--a class="buy-btn" href="#">Buy Now</a-->
 					          	 </div>
 					          	  <div class="slider-caption-right">
-					          	  	<a href="#"><img src="images/iteam.png" class="img-responsive" title="name" /></a>
+					          	  	<a href="#"><img src="images/iteam2.png" class="img-responsive" title="name" /></a>
 					          	  </div>
 					          	  <div class="clearfix"> </div>
 					          </div>
@@ -134,7 +134,37 @@
 					          	 	<!--a class="buy-btn" href="#">Buy Now</a-->
 					          	 </div>
 					          	  <div class="slider-caption-right">
-					          	  	<a href="#"><img src="images/iteam.png" class="img-responsive" title="name" /></a>
+					          	  	<a href="#"><img src="images/iteam3.png" class="img-responsive" title="name" /></a>
+					          	  </div>
+					          	  <div class="clearfix"> </div>
+					          </div>
+					           <!-- share-on -->
+					          <div class="share-on">
+					          	<div class="share-on-grid">
+					          		<div class="share-on-grid-left">
+					          			<h3>Share On</h3>
+					          		</div>
+					          		<div class="share-on-grid-right">
+					          			<a href="#"><span class="facebook"> </span></a>
+					          			<a href="#"><span class="twitter"> </span></a>
+					          			<div class="clearfix"> </div>
+					          		</div>
+					          		<div class="clearfix"> </div>
+					          	</div>
+					          	<div class="clearfix"> </div>
+					          </div>
+					          <!-- share-on -->
+					        </li>
+                            <li>
+					          <img src="images/slide.jpg" class="img-responsive" alt="">
+					           <div class="slider-caption">
+					            <div class="slider-caption-left text-center">
+					          	 	<h1>ARE YOU LOOKING FOR SWEET, STYLISH AND DELECIOUS BIRTHDAY CAKES?</h1>
+					          	 	<p>DON'T WORRY, WE CAN HELP YOU! CHECK OUR BEST CAKE SECTION.</p>
+					          	 	<!--a class="buy-btn" href="#">Buy Now</a-->
+					          	 </div>
+					          	  <div class="slider-caption-right">
+					          	  	<a href="#"><img src="images/iteam4.png" class="img-responsive" title="name" /></a>
 					          	  </div>
 					          	  <div class="clearfix"> </div>
 					          </div>
